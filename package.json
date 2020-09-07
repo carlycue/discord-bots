@@ -1,0 +1,22 @@
+{
+  "name": "discord-bots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlycue/discord-bots.git"
+  },
+  "author": "Carly Chase",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlycue/discord-bots/issues"
+  },
+  "homepage": "https://github.com/carlycue/discord-bots#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
