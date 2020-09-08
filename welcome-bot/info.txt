@@ -1,0 +1,3 @@
+ID : 752634417020665878
+
+INVITE LINK : https://discord.com/api/oauth2/authorize?client_id=752634417020665878&scope=bot&permissions=1
